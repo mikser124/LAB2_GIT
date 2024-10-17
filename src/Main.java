@@ -5,7 +5,8 @@ public class Main {
         System.out.println("Hi2");
         System.out.println("hi3");
         System.out.println("blalala");
-        System.out.println("blalala2");
+        System.out.println("blalala");
+
     }
 }
 //mikser124
